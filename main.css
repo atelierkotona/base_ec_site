@@ -68,12 +68,12 @@ a#logo img {
 section.style1 {
   display: flex;
   flex-direction: row;
-  margin-top: 50px;
+  margin: 100px 0;
 }
 
 .style1 .content {
   width: 50%;
-  padding: 4rem 2rem;
+  padding: 2rem;
 }
 
 .style1 .content p {
