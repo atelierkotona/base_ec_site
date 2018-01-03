@@ -47,9 +47,11 @@ section.style1 {
 }
 
 .style1.content {
-  
+  width: 50%;
 }
 
 .style1.image {
-
+  width: 50%;
+  display: inline-block;
+  position: relative;
 }
