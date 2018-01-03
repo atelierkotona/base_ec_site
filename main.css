@@ -46,11 +46,11 @@ section.style1 {
   flex-direction: row;
 }
 
-.style1.content {
+.style1 .content {
   width: 50%;
 }
 
-.style1.image {
+.style1 .image {
   width: 50%;
   display: inline-block;
   position: relative;
