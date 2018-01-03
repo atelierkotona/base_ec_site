@@ -86,3 +86,12 @@ section.style1 {
   display: inline-block;
   position: relative;
 }
+
+#content.style2 {
+  display: flex;
+  flex-direction: row;
+}
+
+.style2 .item-container {
+
+}
