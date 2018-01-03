@@ -14,11 +14,14 @@ body {
 
 .container {
   background: #074358;
-  color: #eee;
 }
 
 .container #header {
-  padding: 17px 0;
+  padding: 19px 0;
+}
+
+.mainHeaderNavColor {
+  color: #eee;
 }
 
 #logo {
