@@ -88,11 +88,12 @@ section.style1 {
 }
 
 #content.style2 {
-  background: #458985;
+  background: #254A48;
   display: flex;
   flex-direction: row;
 }
 
 .style2 .item-container {
-
+  backgroud-color: inherit;
+  
 }
